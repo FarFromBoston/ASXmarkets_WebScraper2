@@ -11,7 +11,7 @@ This will go to the site https://www.listcorp.com/asx/sectors/materials Which ha
 
 Using selenium, the table will be taken and stripped into lists. A CSV will be read in and from the website, the MARKET CAP and acronym of the ASX listed company will be read in the marketCap value for each market will be added as a new row in the CSV with the date the program ran.
 
-Simply run the program. NOTHING ever needs to be done in the CSV sheet, just look at it.
+Simply run the program. To add more markets just add their names in the CSV as per the existing columns.
 
 # USE THIS FOR
 
